@@ -1,6 +1,6 @@
 Win64
 PlayerPath?
-E:/Github/Projekjkt/Mathss/Mathss.exe
+E:/Github/Projekjkt/Pierarzz/Mathss.exe
 SceneListBegin?
 Assets/Scenes/Start.unity
 Assets/Scenes/Level_1.unity
@@ -300,3 +300,4 @@ cd67f3e1e9ccac6db86c1564cea5a827 Vuforia.UnityExtensions.dll:Vuforia.VuforiaConf
 fbbf64dcbe0662e3eda1dec45ea8f895 Vuforia.UnityExtensions.dll:Vuforia.WireframeBehaviour
 71bb6a6b6c8f052f948db64c7dd3ca4f Vuforia.UnityExtensions.dll:Vuforia.WireframeTrackableEventHandler
 d284a1d3a21739968a0e972d3339502c Assembly-CSharp.dll:.PaddleMovement
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.block_destroy
