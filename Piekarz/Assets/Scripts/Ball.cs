@@ -28,7 +28,18 @@ public class Ball : MonoBehaviour
         }
     }
 
-    private void LaunchOnMouseClick()
+    private void OnCollisionEnter2D(Collision2D collision)
+
+    {
+        if (hasStarted)
+
+GetComponent<AudioSource>().Play();
+
+    // GetComponent służy własnie do pobrania/wskazania danego komponentu.
+
+}
+
+private void LaunchOnMouseClick()
     {
         if (Input.GetMouseButtonDown(0))
         {
